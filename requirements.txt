@@ -1,3 +1,8 @@
-GCC Compiler
-Standard C Library
-Code::Blocks
+Tools:
+- GCC Compiler
+- Code::Blocks IDE
+
+Libraries:
+- Standard C Library
+- Windows API (windows.h)
+- Console I/O Library (conio.h)
