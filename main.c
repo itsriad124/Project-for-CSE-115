@@ -1,19 +1,3 @@
-/*
-    ================================================================
-    SPACE INVADERS: GALACTIC WARFARE - DELUXE EDITION
-    ================================================================
-    Features:
-    - Stunning visual effects and animations
-    - Combo system with multipliers
-    - Multiple enemy formations
-    - Epic boss battles with phases
-    - Achievement notifications
-    - Animated star field with nebula
-    - Screen effects (flash, shake)
-    - Detailed ASCII art ships
-    ================================================================
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -1952,3 +1936,4 @@ int main()
 
     return 0;
 }
+
